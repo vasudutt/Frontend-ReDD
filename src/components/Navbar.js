@@ -25,7 +25,7 @@ const Navbar = () => {
 		</div>
 		</Link>
 		<ul>
-			<li><a href="https://github.com/Pratyush-exe/Respiratory-Diseases-Detection/tree/main" target="_blank">Github</a></li>
+			<li><a href="https://github.com/Pratyush-exe/ReDD-AI/" target="_blank">Github</a></li>
 			<li><Link to="/FAQ">FAQs</Link></li>
 			<li><Link to="/Team">Team</Link></li>
 		</ul>

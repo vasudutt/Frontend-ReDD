@@ -11,7 +11,7 @@ export const TeamData = [
         loc: 'Ghaziabad, India',
         college: 'KIIT Bhubaneswar',
         github: 'https://github.com/vasudutt',
-        linkedin: ''
+        linkedin: 'https://www.linkedin.com/in/vasu-dutt/'
     },
     {
         key: 1,
